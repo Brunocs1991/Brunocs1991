@@ -17,10 +17,10 @@
 - Linguagens: C#, Java, Php, Java Script
 - Banco de Dados: Postgres, MySQL
 
-<p align="center"> 
+<p>
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight"/>
-  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img align ="center"src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight"/>
+  </a>&nbsp
   <a href="https://github.com/Brunocs1991?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight" />
   </a>
@@ -29,7 +29,7 @@
 
 --------------------------
 
-<p align=> 
+<p> 
   <h2>:heavy_check_mark: Redes Sociais</h2>
 
 [![Linkedin: Bruno Costa e Silva](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocs/)](https://www.linkedin.com/in/brunocs/)
@@ -84,3 +84,4 @@
   </br>
   <img src="https://profile-counter.glitch.me/Brunocs1991/count.svg" />
 </p>
+
