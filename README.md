@@ -22,7 +22,7 @@
     <img align ="center"src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight"/>
   </a>&nbsp
   <a href="https://github.com/Brunocs1991?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=6&layout=compact" />
   </a>
 </p>
 <br/>
