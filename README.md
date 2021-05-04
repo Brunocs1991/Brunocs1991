@@ -23,7 +23,7 @@
 <br>
 
 --------------------------
-## Cartões <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">GitHub Readme Stats</a>
+## Meus Cartões <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">GitHub Readme Stats</a>
 
 <br>
 <br>
