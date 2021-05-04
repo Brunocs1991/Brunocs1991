@@ -16,21 +16,26 @@
 - Graduação : Análise e Desenvolvimento de sistemas
 - Linguagens: C#, Java, Php, Java Script
 - Banco de Dados: Postgres, MySQL
+
+--------------------------
+
 <p align="center">
   <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
-
+  <br>
   <br>
   <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight" />
   </a>
   <br>
+  <br>
   <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL&layout=compact" />
   </a>
 <p>
-<br/>
+<br>
+  
 
 --------------------------
 
