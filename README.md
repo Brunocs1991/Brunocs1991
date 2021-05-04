@@ -26,7 +26,6 @@
 ## Meus Cartões <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">GitHub Readme Stats</a>
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://github.com/Brunocs1991">
