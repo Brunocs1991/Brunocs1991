@@ -18,8 +18,6 @@
 - Linguagens: C#, Java, Php, Java Script
 - Banco de Dados: Postgres, MySQL
 
-
-<br>
 <br>
 
 --------------------------
