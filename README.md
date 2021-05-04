@@ -6,8 +6,9 @@
 <a href="https://github.com/Brunocs1991">
   <img align="left" alt="Bruno Costa e Silva Github" width="22px" src="https://raw.githubusercontent.com/Brunocs1991/Brunocs1991/master/icons/github_b.svg" />
 </a>
-
-<br/>
+<br>
+<br>
+<br>
 
 --------------------------
 
@@ -17,8 +18,15 @@
 - Linguagens: C#, Java, Php, Java Script
 - Banco de Dados: Postgres, MySQL
 
+
+<br>
+<br>
+
 --------------------------
 ## Cartões <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">GitHub Readme Stats</a>
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/Brunocs1991">
