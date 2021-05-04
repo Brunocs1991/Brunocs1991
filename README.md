@@ -18,20 +18,23 @@
 - Banco de Dados: Postgres, MySQL
 
 --------------------------
+## Cartões das principais Linguagens
 
 <p align="center">
   <a href="https://github.com/Brunocs1991">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compac&theme=tokyonight" />
+  </a>
+  <br>
+  <br>
+  
+  <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
+ 
   <br>
   <br>
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL" />
   </a>
 <p>
 <br>
