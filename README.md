@@ -36,19 +36,6 @@
   </a>
 <p>
 <br>
-  
-
---------------------------
-
-<p> 
-  <h2>:heavy_check_mark: Redes Sociais</h2>
-
-[![Linkedin: Bruno Costa e Silva](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocs/)](https://www.linkedin.com/in/brunocs/)
-  <br/>
-[![GitHub Bruno Costa](https://img.shields.io/github/followers/Brunocs1991?label=follow&style=social)](https://github.com/Brunocs1991)
- <br/>
- <br/>
- </p>
  
 --------------------------
 
