@@ -20,10 +20,15 @@
 <p>
   <a href="https://github.com/Brunocs1991">
     <img align ="center"src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight"/>
-  </a>&nbsp
-  <a href="https://github.com/Brunocs1991?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL" />
   </a>
+  <a href="https://github.com/Brunocs1991?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight" />
+  </a>  
+</p>
+<p>
+  <a href="https://github.com/Brunocs1991?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL&layout=compact" />
+  </a> 
 </p>
 <br/>
 
