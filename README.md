@@ -18,23 +18,21 @@
 - Banco de Dados: Postgres, MySQL
 
 --------------------------
-## Cartões das principais Linguagens
+## Cartões <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md">GitHub Readme Stats</a>
 
 <p align="center">
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compac&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compac&theme=tokyonight&custom_title=Estat%C3%ADsticas%20Wankatime"/>
   </a>
   <br>
-  <br>
-  
+  <br>  
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
- 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20GitHub" />
+  </a> 
   <br>
   <br>
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=7&hide=TSQL" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=8&hide=TSQL&layout=compact&custom_title=Linguagens%20Mais%20Usadas" />
   </a>
 <p>
 <br>
