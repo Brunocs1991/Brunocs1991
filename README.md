@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/Brunocs1991">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compac&theme=tokyonight&custom_title=Estat%C3%ADsticas%20Wankatime"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compact&theme=tokyonight&custom_title=Estat%C3%ADsticas%20Wankatime"/>
   </a>
   <br>
   <br>  
