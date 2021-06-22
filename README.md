@@ -26,11 +26,13 @@
 <br>
 
 <p align="center">
+  <!--
   <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&layout=compact&theme=tokyonight&custom_title=Estat%C3%ADsticas%20WakaTime"/>
   </a>
   <br>
-  <br>  
+  <br> 
+--> 
   <a href="https://github.com/Brunocs1991">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20GitHub" />
   </a> 
