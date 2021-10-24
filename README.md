@@ -63,11 +63,6 @@
     <a href="https://github.com/Brunocs1991">
     <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight" alt="Brunocs1991" />
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" />
-  </a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/Brunocs1991">
     <img  height="350em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight&layout=compact&custom_title=My%20Wakatime%20Statistics"/>
     <img  height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=8&hide=TSQL&custom_title=My%20Programming%20Languages" />
   </a>
