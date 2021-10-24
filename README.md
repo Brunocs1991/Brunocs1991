@@ -68,8 +68,8 @@
   
 <p align="center">
   <a href="https://github.com/Brunocs1991">
-    <img  height="390em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight&layout=compact&custom_title=My%20Wakatime%20Statistics"/>
-    <img  height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=8&hide=TSQL&custom_title=My%20Programming%20Languages" />
+    <img  height="350em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight&layout=compact&custom_title=My%20Wakatime%20Statistics"/>
+    <img  height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&langs_count=8&hide=TSQL&custom_title=My%20Programming%20Languages" />
   </a>
 </p>
 </br>
