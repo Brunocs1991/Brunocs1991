@@ -16,7 +16,7 @@
 
 - Graduação : Análise e Desenvolvimento de sistemas
 - Linguagens: C#, Java, Php, JavaScript
-- Banco de Dados: Postgres, MySQL
+- Banco de Dados: Postgres, MySQL, Microsoft SQL Server
 
 <br>
 
