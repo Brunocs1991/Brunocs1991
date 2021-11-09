@@ -4,7 +4,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Brunocs1991&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-30-blue" />
-  <img src="https://img.shields.io/badge/Focus-Java%20and%20Python-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Java-brightgreen" />
 </p>
 
 ## About Me
