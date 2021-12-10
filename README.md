@@ -64,7 +64,7 @@
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"alt="Brunocs1991" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" />
     <img  width="57%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight&layout=compact&custom_title=My%20Wakatime%20Statistics&hide=GUI_DESIGNER_FORM,Properties,SQL,Docker,JSON,JSX,Git%Config,IDEA_MODULE,CLASS,Other,GitIgnore%20file,Git%20Config"/>
-    <img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=compact&hide=TSQL&custom_title=My%20Programming%20Languages&langs_count=10" />
+    <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=compact&hide=TSQL&custom_title=My%20Programming%20Languages&langs_count=10" />
   </a>
 </p>
 </br>
