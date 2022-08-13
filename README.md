@@ -10,7 +10,7 @@
 ## About Me
 </br>
 
-- Jr Developer Analyst at <a href="https://www.squadra.com.br/">Squadra Digital<a>
+- Pl Developer Analyst at <a href="https://www.squadra.com.br/">Squadra Digital<a>
 - Graduation: Systems Analysis and Development at Estácio de Sá University
 - I'm currently exploring machine learning
 </br>
