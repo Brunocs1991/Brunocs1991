@@ -3,7 +3,7 @@
 </br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Brunocs1991&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-30-blue" />
+  <img src="https://img.shields.io/badge/Age-31-blue" />
   <img src="https://img.shields.io/badge/Focus-Java-brightgreen" />
 </p>
 
@@ -12,7 +12,6 @@
 
 - Pl Developer Analyst at <a href="https://www.squadra.com.br/">Squadra Digital<a>
 - Graduation: Systems Analysis and Development at Estácio de Sá University
-- I'm currently exploring machine learning
 </br>
 
 ## Tech Stack
