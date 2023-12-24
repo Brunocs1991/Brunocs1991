@@ -13,8 +13,8 @@
 - Analyst and Developer at <a href="https://www.squadra.com.br/">Squadra Digital<a>
 - Graduation: Systems Analysis and Development at Estácio de Sá University
 - 2nd Graduation: Database at Estácio de Sá University
-- Postgraduate: Studying software Engineering at Anhanguera
-- Postgraduate: Studying software architect at Anhanguera
+- Postgraduate: Software Engineering at Anhanguera
+- Postgraduate: Software Architect at Anhanguera
 </br>
 
 ## Tech Stack
