@@ -45,7 +45,7 @@
 </br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/brunocs"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="bruno-java-spring"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/brunocs_91/"><img src="https://img.shields.io/badge/brunocs__91-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://github.com/Brunocs1991"><img src="https://img.shields.io/badge/Brunocs1991-000000?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
