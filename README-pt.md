@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README-pt.md"><img src="https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge&logo=brasil" alt="Português" /></a>
+  <a href="README-en.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=us" alt="English" /></a>
+</p>
+
 <h1 align="center">Bruno Costa e Silva</h1>
 
 <p align="center"> 
@@ -103,7 +108,7 @@
 
 | Estatística       | Visualização                                                                                                 |
 |-------------------|------------------------------------------------------------------------------------------------------------|
-| **Perfil Detalhado** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight" alt="Detalhes" /></p> |
+| **Perfil Detalhado** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight&exclude=email" alt="Detalhes" /></p> |
 | **Streak Stats**  | <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="Streak" /></p> |
 | **Estatísticas**  | <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" alt="Estatísticas" /></p> |
 | **Linguagens**    | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=donut-vertical&custom_title=Minhas%20Linguagens%20de%20Programação&langs_count=6&hide=Jupyter%20Notebook" alt="Linguagens" /></p> |
