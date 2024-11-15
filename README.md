@@ -66,7 +66,7 @@
     <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"alt="Brunocs1991" />
     <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" />
 <!--     <img  width="52.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brunocs&theme=tokyonight&layout=compact&custom_title=My%20Wakatime%20Statistics&hide=Manifest,Tsconfig,CLASS,.env%20file,Jupyter,EditorConfig,Ezhil,Shell%20Script,IDEA_MODULE,textmate,INI,ActionScript%203,GDScript3,GUI_DESIGNER_FORM,Bash,JSX,Text,Properties"/> -->
-    <img  width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=donut&custom_title=My%20Programming%20Languages&langs_count=10&hide=Jupyter%20Notebook"/>
+    <img  width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=donut-vertical&custom_title=My%20Programming%20Languages&langs_count=6&hide=Jupyter%20Notebook"/>
   </a>
 </p>
 </br>
