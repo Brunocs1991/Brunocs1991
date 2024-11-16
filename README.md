@@ -12,8 +12,8 @@
 
 - **Position**: Analyst and Developer at [Squadra Digital](https://www.squadra.com.br/)  
 - **Academic Background**:  
-  - **Bachelor's Degree**: Analysis and Systems Development from Estácio de Sá  
-  - **2nd Bachelor's Degree**: Databases from Estácio de Sá  
+  - **Technological Degree**: Analysis and Systems Development from Estácio de Sá  
+  - **2nd Technological Degree**: Databases from Estácio de Sá  
   - **Postgraduate**: Software Engineering from Anhanguera  
   - **Postgraduate**: Software Architecture from Anhanguera  
 
