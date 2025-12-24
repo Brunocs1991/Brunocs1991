@@ -10,7 +10,7 @@
 
 ## About Me
 
-- **Position**: Senior Developer at [Squadra Digital](https://www.squadra.com.br/)
+- **Position**: Software Developer Analyst II at [Bank Inter](https://inter.co/)
 
 ### 🎓 Education
 - **Technological Degree** (1st): University Estácio de Sá — Analysis and Systems Development  
