@@ -112,7 +112,7 @@
 
 | Statistics       | View                                                                                                        |
 |------------------|-------------------------------------------------------------------------------------------------------------|
-| **Detailed Profile** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight&exclude=email" alt="Details" /></p> |
+| **Detailed Profile** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight" alt="Details" /></p> |
 | **Streak Stats** | <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="Streak" /></p> |
-| **Statistics**   | <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brunocs1991&show_icons=true&count_private=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics" alt="Statistics" /></p> |
-| **Languages**    | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunocs1991&theme=tokyonight&layout=donut-vertical&custom_title=My%20Programming%20Languages&langs_count=8" alt="Languages" /></p> |
+| **Statistics**   | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunocs1991&theme=tokyonight" alt="Statistics" /></p> |
+| **Languages**    | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunocs1991&theme=tokyonight" alt="Languages" /></p> |
