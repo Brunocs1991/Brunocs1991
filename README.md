@@ -1,10 +1,11 @@
 <h1 align="center">Bruno Costa e Silva</h1>
 
 <p align="center">
+  Backend Developer | Java | Python | Arquitetura de Software | Dados e IA
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brunocs1991&color=brightgreen" alt="Visualizações do perfil" />
-  <!-- AGE_BADGE:start -->
-  <img src="https://img.shields.io/badge/Idade-34-blue" alt="Idade atualizada automaticamente" />
-  <!-- AGE_BADGE:end -->
   <img src="https://img.shields.io/badge/Foco-Java%20%7C%20Python%20%7C%20Arquitetura-success" alt="Foco: Java, Python e Arquitetura" />
 </p>
 
@@ -14,7 +15,7 @@
 
 - **Cargo atual**: Analista Desenvolvedor de Software II no [Inter](https://inter.co/)
 - **Atuação**: desenvolvimento backend, arquitetura de software, integração entre sistemas, dados e automação.
-- **Interesses técnicos**: Java, Python, APIs, microsserviços, mensageria, cloud, testes e ciência de dados aplicada.
+- **Interesses técnicos**: Java, Python, APIs, microsserviços, mensageria, cloud, testes, dados e IA aplicada.
 
 ### Formação
 
@@ -32,42 +33,42 @@
 ### Principal
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Main-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-Main-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Spring-Main-05122A?style=flat&logo=spring&logoColor=6DB33F" alt="Spring" />
-  <img src="https://img.shields.io/badge/Docker-Main-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-Main-05122A?style=flat&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Main-05122A?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Java-Principal-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-Principal-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring-Principal-05122A?style=flat&logo=spring&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/Docker-Principal-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-Principal-05122A?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Principal-05122A?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### Em evolução
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-Learning-05122A?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Angular-Learning-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-Learning-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Micronaut-Learning-05122A?style=flat&logo=micronaut&logoColor=FFFFFF" alt="Micronaut" />
-  <img src="https://img.shields.io/badge/NestJS-Learning-05122A?style=flat&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Power%20BI-Learning-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/FastAPI-Em%20evolucao-05122A?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Angular-Em%20evolucao-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-Em%20evolucao-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Micronaut-Em%20evolucao-05122A?style=flat&logo=micronaut&logoColor=FFFFFF" alt="Micronaut" />
+  <img src="https://img.shields.io/badge/NestJS-Em%20evolucao-05122A?style=flat&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Power%20BI-Em%20evolucao-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
 </p>
 
 ### Experiência anterior
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-Previous%20experience-05122A?style=flat&logo=csharp&logoColor=9B4F96" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-Previous%20experience-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-Previous%20experience-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/React-Previous%20experience-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-Previous%20experience-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/C%23-Experiencia%20anterior-05122A?style=flat&logo=csharp&logoColor=9B4F96" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-Experiencia%20anterior-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-Experiencia%20anterior-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/React-Experiencia%20anterior-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-Experiencia%20anterior-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ### Ferramentas e práticas
 
 <p>
-  <img src="https://img.shields.io/badge/Pytest-Tests-05122A?style=flat&logo=pytest&logoColor=0A9EDC" alt="Pytest" />
-  <img src="https://img.shields.io/badge/JUnit-Tests-05122A?style=flat&logo=junit5&logoColor=25A162" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Mockito-Tests-05122A?style=flat" alt="Mockito" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-05122A?style=flat&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Pytest-Testes-05122A?style=flat&logo=pytest&logoColor=0A9EDC" alt="Pytest" />
+  <img src="https://img.shields.io/badge/JUnit-Testes-05122A?style=flat&logo=junit5&logoColor=25A162" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-Testes-05122A?style=flat" alt="Mockito" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Mensageria-05122A?style=flat&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/AWS-Cloud-05122A?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-Cloud-05122A?style=flat&logo=microsoftazure&logoColor=0089D6" alt="Azure" />
   <img src="https://img.shields.io/badge/GCP-Cloud-05122A?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
@@ -75,15 +76,77 @@
 
 ---
 
+## Atualmente estudando
+
+Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, com foco em desenho de fluxos com LLMs, decomposição de tarefas, uso de ferramentas, avaliação de respostas e integração de IA em produtos reais.
+
+<p>
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-Estudo%20atual-05122A?style=flat" alt="Agentes de IA" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Estudo%20atual-05122A?style=flat" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLMs-Aplicacao%20pratica-05122A?style=flat" alt="LLMs" />
+</p>
+
+---
+
 ## Projetos em destaque
 
-| Projeto | Stack | Destaque |
-|---------|-------|----------|
-| [Microservices Spring Cloud, Spring Boot e Docker](https://github.com/Brunocs1991/Microservices_SpringCloud_SpringBoot_Docker) | Java, Spring Boot, Spring Cloud, Docker | Estudos aplicados de microsserviços e cloud-native |
-| [Exemplo RabbitMQ](https://github.com/Brunocs1991/exemplo_rabbitmq) | Java, Spring Boot, RabbitMQ, Docker | Integração assíncrona e mensageria |
-| [Teste de Software com Python](https://github.com/Brunocs1991/teste_software_python) | Python, Pytest, Requests | Base de testes automatizados e organização de dependências |
-| [Barber Shop UI](https://github.com/Brunocs1991/barber-shop-ui) | Angular, Angular Material, Bootstrap | Interface moderna para aplicação web |
-| [Power BI Analyst](https://github.com/Brunocs1991/power_bi_analyst) | Power BI, BI, Analytics | Estudos em análise de dados e visualização |
+### [Microservices Spring Cloud, Spring Boot e Docker](https://github.com/Brunocs1991/Microservices_SpringCloud_SpringBoot_Docker)
+
+<p>
+  <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-05122A?style=flat&logo=spring&logoColor=6DB33F" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+- **Arquitetura**: estudos de microsserviços com Spring Boot, Spring Cloud e empacotamento com Docker.
+- **Aprendizados principais**: comunicação entre serviços, configuração distribuída, preparação para ambientes cloud-native e organização de aplicações backend em serviços menores.
+
+### [Exemplo RabbitMQ](https://github.com/Brunocs1991/exemplo_rabbitmq)
+
+<p>
+  <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
+
+- **Arquitetura**: aplicação de mensageria com RabbitMQ executado via Docker e integração com backend Java/Spring.
+- **Aprendizados principais**: comunicação assíncrona, filas, desacoplamento entre componentes e uso do console de gerenciamento do RabbitMQ.
+
+### [Teste de Software com Python](https://github.com/Brunocs1991/teste_software_python)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Pytest-05122A?style=flat&logo=pytest&logoColor=0A9EDC" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Requests-05122A?style=flat" alt="Requests" />
+</p>
+
+- **Arquitetura**: base de estudos para testes automatizados em Python com ambiente virtual e dependências versionadas.
+- **Aprendizados principais**: organização de ambiente, automação com Pytest, testes de integração HTTP com Requests e reprodutibilidade por `requirements`.
+
+### [Barber Shop UI](https://github.com/Brunocs1991/barber-shop-ui)
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Angular%20Material-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+</p>
+
+- **Arquitetura**: frontend Angular com Angular Material, Bootstrap, formulários, rotas e organização por componentes.
+- **Aprendizados principais**: construção de UI moderna, composição de componentes, uso de bibliotecas visuais e preparação para integração com backend.
+
+### [Power BI Analyst](https://github.com/Brunocs1991/power_bi_analyst)
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/BI-05122A?style=flat" alt="BI" />
+  <img src="https://img.shields.io/badge/Analytics-05122A?style=flat" alt="Analytics" />
+</p>
+
+- **Arquitetura**: estudos em análise de dados, modelagem analítica e criação de visualizações com Power BI.
+- **Aprendizados principais**: leitura de indicadores, estruturação de relatórios, exploração de dados e comunicação visual para tomada de decisão.
 
 ---
 
@@ -104,10 +167,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunocs1991&theme=tokyonight" alt="Estatísticas GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunocs1991&theme=tokyonight" alt="Linguagens por repositório" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunocs1991&theme=tokyonight" alt="Estatísticas GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunocs1991&theme=tokyonight" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunocs1991&theme=tokyonight" alt="Linguagens mais usadas em commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brunocs1991&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
 </p>
