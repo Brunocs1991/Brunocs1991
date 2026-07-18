@@ -1,118 +1,121 @@
 <h1 align="center">Bruno Costa e Silva</h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Brunocs1991&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-33-blue" />
-  <img src="https://img.shields.io/badge/Focus-Java%20and%20Python-success">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brunocs1991&color=brightgreen" alt="Visualizações do perfil" />
+  <!-- AGE_BADGE:start -->
+  <img src="https://img.shields.io/badge/Idade-34-blue" alt="Idade atualizada automaticamente" />
+  <!-- AGE_BADGE:end -->
+  <img src="https://img.shields.io/badge/Foco-Java%20%7C%20Python%20%7C%20Arquitetura-success" alt="Foco: Java, Python e Arquitetura" />
 </p>
 
 ---
 
-## About Me
+## Sobre mim
 
-- **Position**: Software Developer Analyst II at [Bank Inter](https://inter.co/)
+- **Cargo atual**: Analista Desenvolvedor de Software II no [Inter](https://inter.co/)
+- **Atuação**: desenvolvimento backend, arquitetura de software, integração entre sistemas, dados e automação.
+- **Interesses técnicos**: Java, Python, APIs, microsserviços, mensageria, cloud, testes e ciência de dados aplicada.
 
-### 🎓 Education
-- **Technological Degree** (1st): University Estácio de Sá — Analysis and Systems Development  
-- **Technological Degree** (2nd): University Estácio de Sá — Databases  
-- **Postgraduate** (1st): University Anhanguera — Software Engineering  
-- **Postgraduate** (2nd): University Anhanguera — Software Architecture  
-- **Postgraduate** (3rd): University Anhanguera — Business Intelligence, Big Data and Analytics — Data Science  
-- **Postgraduate** (4th): University Anhanguera — Data Science and Artificial Intelligence  
----
+### Formação
 
-## Tech Stack
-
-### **Programming Languages**
-
-| Language       | Badge                                                                 | Status              | - | Language       | Badge                                                                 | Status             |
-|----------------|-----------------------------------------------------------------------|---------------------|---|----------------|-----------------------------------------------------------------------|--------------------|
-| **Python**     | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![Updated](https://img.shields.io/badge/Updated-success) | - | **Go**         | ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8) | ![Outdated](https://img.shields.io/badge/Outdated-red) |
-| **Java**       | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) | ![Updated](https://img.shields.io/badge/Updated-success) | - | **C#**         | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=9B4F96) | ![Outdated](https://img.shields.io/badge/Outdated-red) |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) | ![Updated](https://img.shields.io/badge/Updated-success) | - | **PHP**        | ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4) | ![Outdated](https://img.shields.io/badge/Outdated-red) |
+- **Tecnólogo**: Universidade Estácio de Sá — Análise e Desenvolvimento de Sistemas
+- **Tecnólogo**: Universidade Estácio de Sá — Banco de Dados
+- **Pós-graduação**: Universidade Anhanguera — Engenharia de Software
+- **Pós-graduação**: Universidade Anhanguera — Arquitetura de Software
+- **Pós-graduação**: Universidade Anhanguera — Business Intelligence, Big Data e Analytics — Data Science
+- **Pós-graduação**: Universidade Anhanguera — Data Science e Inteligência Artificial
 
 ---
 
-### **Platforms and Libraries**
+## Stack Técnica
 
-| Technology             | Badge                                                                 | - | Technology            | Badge                                                              |
-|------------------------|----------------------------------------------------------------------|---|-----------------------|--------------------------------------------------------------------|
-| **Django**             | ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20) | - | **Docker**            | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED) |
-| **Spring Framework**   | ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F) | - | **Micronaut**         | ![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut&logoColor=5C2D91) |
-| **FastAPI**            | ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688) | - | **NestJS**            | ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E) |
-| **Next.js**            | ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) | - | **React**             | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) |
+### Principal
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java-Main-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-Main-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring-Main-05122A?style=flat&logo=spring&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/Docker-Main-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-Main-05122A?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Main-05122A?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-### **Development Tools**
+### Em evolução
 
-| Tool                    | Badge                                                                 | - | Tool                   | Badge                                                              |
-|-------------------------|-----------------------------------------------------------------------|---|------------------------|--------------------------------------------------------------------|
-| **Terraform**           | ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=7B42BC) | - | **Visual Studio Code**  | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat) |
-| **Eclipse**             | ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255) | - | **IntelliJ IDEA**       | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=000000) |
-| **PyCharm**             | ![PyCharm](https://img.shields.io/badge/PyCharm-05122A?style=flat&logo=pycharm&logoColor=green) | - | **Anaconda**            | ![Anaconda](https://img.shields.io/badge/Anaconda-05122A?style=flat&logo=anaconda&logoColor=green) |
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-Learning-05122A?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Angular-Learning-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Micronaut-Learning-05122A?style=flat&logo=micronaut&logoColor=FFFFFF" alt="Micronaut" />
+  <img src="https://img.shields.io/badge/NestJS-Learning-05122A?style=flat&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+</p>
 
----
+### Experiência anterior
 
-### **Machine Learning and AI**
+<p>
+  <img src="https://img.shields.io/badge/C%23-Previous%20experience-05122A?style=flat&logo=csharp&logoColor=9B4F96" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-Previous%20experience-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-Previous%20experience-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/React-Previous%20experience-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-Previous%20experience-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
-| Technology              | Badge                                                                 | - | Technology              | Badge                                                                 |
-|-------------------------|----------------------------------------------------------------------|---|-------------------------|----------------------------------------------------------------------|
-| **Keras**               | ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000) | - | **TensorFlow**          | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00) |
-| **Scikit-learn**        | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E) | - | **OpenCV**              | ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3D00) |
+### Ferramentas e práticas
 
----
-
-### **Automation and Testing**
-
-| Tool                    | Badge                                                                 | - | Tool                   | Badge                                                              |
-|-------------------------|-----------------------------------------------------------------------|---|------------------------|--------------------------------------------------------------------|
-| **Cypress**             | ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=17202A) | - | **Selenium**            | ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=43B02A) |
-| **Mockito**             | ![Mockito](https://img.shields.io/badge/-Mockito-05122A?style=flat&logo=mockito&logoColor=5C2D91) | - | **JUnit**               | ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit&logoColor=25A162) |
-| **Jest**                | ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325) | - |                        |                                                                    |
----
-
-### **Cloud Platforms**
-
-| Platform                | Badge                                                                 | - | Platform                | Badge                                                                 |
-|-------------------------|----------------------------------------------------------------------|---|-------------------------|----------------------------------------------------------------------|
-| **AWS**                 | ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900) | - | **Azure**               | ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0089D6) |
-| **Google Cloud Platform**| ![Google Cloud Platform](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud&logoColor=4285F4) | - | **New Relic**           | ![New Relic](https://img.shields.io/badge/-New%20Relic-05122A?style=flat&logo=newrelic&logoColor=00A2F7) |
-| **ELK Stack**           | ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-05122A?style=flat&logo=elasticsearch&logoColor=005571) | - |                         |                                                                      |
----
-
-### **Version Control**
-
-| Tool           | Badge                                                              | - | Tool           | Badge                                                              |
-|----------------|--------------------------------------------------------------------|---|----------------|--------------------------------------------------------------------|
-| **Git**        | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | - | **GitHub**     | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
-| **GitLab**     | ![GitLab](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab&logoColor=FC6D26) | - | **Git Flow**   | ![Git Flow](https://img.shields.io/badge/Git%20Flow-05122A?style=flat&logo=git&logoColor=FF4500) |
+<p>
+  <img src="https://img.shields.io/badge/Pytest-Tests-05122A?style=flat&logo=pytest&logoColor=0A9EDC" alt="Pytest" />
+  <img src="https://img.shields.io/badge/JUnit-Tests-05122A?style=flat&logo=junit5&logoColor=25A162" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-Tests-05122A?style=flat" alt="Mockito" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-05122A?style=flat&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-05122A?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-05122A?style=flat&logo=microsoftazure&logoColor=0089D6" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-Cloud-05122A?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+</p>
 
 ---
 
-## Connect With Me
+## Projetos em destaque
+
+| Projeto | Stack | Destaque |
+|---------|-------|----------|
+| [Microservices Spring Cloud, Spring Boot e Docker](https://github.com/Brunocs1991/Microservices_SpringCloud_SpringBoot_Docker) | Java, Spring Boot, Spring Cloud, Docker | Estudos aplicados de microsserviços e cloud-native |
+| [Exemplo RabbitMQ](https://github.com/Brunocs1991/exemplo_rabbitmq) | Java, Spring Boot, RabbitMQ, Docker | Integração assíncrona e mensageria |
+| [Teste de Software com Python](https://github.com/Brunocs1991/teste_software_python) | Python, Pytest, Requests | Base de testes automatizados e organização de dependências |
+| [Barber Shop UI](https://github.com/Brunocs1991/barber-shop-ui) | Angular, Angular Material, Bootstrap | Interface moderna para aplicação web |
+| [Power BI Analyst](https://github.com/Brunocs1991/power_bi_analyst) | Power BI, BI, Analytics | Estudos em análise de dados e visualização |
+
+---
+
+## Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunocs-dev/"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/brunocs_91/"><img src="https://img.shields.io/badge/brunocs__91-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/Brunocs1991"><img src="https://img.shields.io/badge/Brunocs1991-000000?style=flat&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brunocs-dev/"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/brunocs_91/"><img src="https://img.shields.io/badge/brunocs__91-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Brunocs1991"><img src="https://img.shields.io/badge/Brunocs1991-000000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## GitHub Trophies
+## Troféus GitHub
 
-| Trophies | View |
-|----------|------|
-| **GitHub Trophies** | ![Trophies](https://github-profile-trophy.vercel.app/?username=Brunocs1991&column=7&theme=gruvbox&no-frame=true) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brunocs1991&column=7&theme=gruvbox&no-frame=true&margin-w=8" alt="Troféus GitHub" />
+</p>
 
 ---
 
 ## GitHub Analytics
 
-| Statistics       | View                                                                                                        |
-|------------------|-------------------------------------------------------------------------------------------------------------|
-| **Detailed Profile** | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight" alt="Details" /></p> |
-| **Streak Stats** | <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="Streak" /></p> |
-| **Statistics**   | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunocs1991&theme=tokyonight" alt="Statistics" /></p> |
-| **Languages**    | <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunocs1991&theme=tokyonight" alt="Languages" /></p> |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunocs1991&theme=tokyonight" alt="Detalhes do perfil" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunocs1991&count_private=true&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunocs1991&theme=tokyonight" alt="Estatísticas GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunocs1991&theme=tokyonight" alt="Linguagens por repositório" />
+</p>
