@@ -13,18 +13,37 @@
 
 ## Sobre mim
 
+Desenvolvedor backend com foco em **Java**, **Python** e **arquitetura de software**. Tenho experiência com APIs, microsserviços, mensageria, testes, dados e automação, conectando prática de engenharia com visão de produto e operação.
+
+Atualmente aprofundo estudos em **agentes de IA** e **engenharia de prompt aplicada**, com foco em fluxos com LLMs, uso de ferramentas, avaliação de respostas e integração de IA em soluções reais.
+
 - **Cargo atual**: Analista Desenvolvedor de Software II no [Inter](https://inter.co/)
-- **Atuação**: desenvolvimento backend, arquitetura de software, integração entre sistemas, dados e automação.
-- **Interesses técnicos**: Java, Python, APIs, microsserviços, mensageria, cloud, testes, dados e IA aplicada.
+- **Localização**: Minas Gerais, Brasil
+- **Perfil profissional**: [LinkedIn](https://www.linkedin.com/in/brunocs-developer/)
 
-### Formação
+---
 
-- **Tecnólogo**: Universidade Estácio de Sá — Análise e Desenvolvimento de Sistemas
-- **Tecnólogo**: Universidade Estácio de Sá — Banco de Dados
-- **Pós-graduação**: Universidade Anhanguera — Engenharia de Software
-- **Pós-graduação**: Universidade Anhanguera — Arquitetura de Software
-- **Pós-graduação**: Universidade Anhanguera — Business Intelligence, Big Data e Analytics — Data Science
-- **Pós-graduação**: Universidade Anhanguera — Data Science e Inteligência Artificial
+## Áreas de atuação
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-05122A?style=flat" alt="Backend" />
+  <img src="https://img.shields.io/badge/APIs%20REST-05122A?style=flat" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/Microsservicos-05122A?style=flat" alt="Microsserviços" />
+  <img src="https://img.shields.io/badge/Mensageria-05122A?style=flat" alt="Mensageria" />
+  <img src="https://img.shields.io/badge/Testes-05122A?style=flat" alt="Testes" />
+  <img src="https://img.shields.io/badge/Dados%20e%20BI-05122A?style=flat" alt="Dados e BI" />
+  <img src="https://img.shields.io/badge/IA%20aplicada-05122A?style=flat" alt="IA aplicada" />
+</p>
+
+---
+
+## Como penso engenharia
+
+- Código simples e claro antes de abstrações prematuras.
+- Testes como documentação viva do comportamento esperado.
+- Arquitetura guiada por contexto, domínio e manutenção, não por moda.
+- Observabilidade, automação e operação como parte do desenho técnico.
+- Aprendizado contínuo com aplicação prática em projetos e estudos dirigidos.
 
 ---
 
@@ -84,13 +103,16 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
   <img src="https://img.shields.io/badge/Agentes%20de%20IA-Estudo%20atual-05122A?style=flat" alt="Agentes de IA" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Estudo%20atual-05122A?style=flat" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/LLMs-Aplicacao%20pratica-05122A?style=flat" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Professional%20Certificate-Em%20andamento-05122A?style=flat" alt="Google AI Professional Certificate" />
 </p>
 
 ---
 
 ## Projetos em destaque
 
-### [Microservices Spring Cloud, Spring Boot e Docker](https://github.com/Brunocs1991/Microservices_SpringCloud_SpringBoot_Docker)
+### Arquitetura e Backend
+
+#### [Microservices Spring Cloud, Spring Boot e Docker](https://github.com/Brunocs1991/Microservices_SpringCloud_SpringBoot_Docker)
 
 <p>
   <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -102,7 +124,7 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
 - **Arquitetura**: estudos de microsserviços com Spring Boot, Spring Cloud e empacotamento com Docker.
 - **Aprendizados principais**: comunicação entre serviços, configuração distribuída, preparação para ambientes cloud-native e organização de aplicações backend em serviços menores.
 
-### [Exemplo RabbitMQ](https://github.com/Brunocs1991/exemplo_rabbitmq)
+#### [Exemplo RabbitMQ](https://github.com/Brunocs1991/exemplo_rabbitmq)
 
 <p>
   <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -114,7 +136,9 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
 - **Arquitetura**: aplicação de mensageria com RabbitMQ executado via Docker e integração com backend Java/Spring.
 - **Aprendizados principais**: comunicação assíncrona, filas, desacoplamento entre componentes e uso do console de gerenciamento do RabbitMQ.
 
-### [Teste de Software com Python](https://github.com/Brunocs1991/teste_software_python)
+### Testes e Qualidade
+
+#### [Teste de Software com Python](https://github.com/Brunocs1991/teste_software_python)
 
 <p>
   <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=3776AB" alt="Python" />
@@ -125,7 +149,9 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
 - **Arquitetura**: base de estudos para testes automatizados em Python com ambiente virtual e dependências versionadas.
 - **Aprendizados principais**: organização de ambiente, automação com Pytest, testes de integração HTTP com Requests e reprodutibilidade por `requirements`.
 
-### [Barber Shop UI](https://github.com/Brunocs1991/barber-shop-ui)
+### Frontend
+
+#### [Barber Shop UI](https://github.com/Brunocs1991/barber-shop-ui)
 
 <p>
   <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
@@ -137,7 +163,9 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
 - **Arquitetura**: frontend Angular com Angular Material, Bootstrap, formulários, rotas e organização por componentes.
 - **Aprendizados principais**: construção de UI moderna, composição de componentes, uso de bibliotecas visuais e preparação para integração com backend.
 
-### [Power BI Analyst](https://github.com/Brunocs1991/power_bi_analyst)
+### Dados e BI
+
+#### [Power BI Analyst](https://github.com/Brunocs1991/power_bi_analyst)
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI" />
@@ -150,11 +178,32 @@ Aprofundando estudos em **agentes de IA** e **engenharia de prompt aplicada**, c
 
 ---
 
+## Formação
+
+- **Tecnólogo**: Universidade Estácio de Sá — Análise e Desenvolvimento de Sistemas
+- **Tecnólogo**: Universidade Estácio de Sá — Banco de Dados
+- **Pós-graduação**: Universidade Anhanguera — Engenharia de Software
+- **Pós-graduação**: Universidade Anhanguera — Arquitetura de Software
+- **Pós-graduação**: Universidade Anhanguera — Business Intelligence, Big Data e Analytics — Data Science
+- **Pós-graduação**: Universidade Anhanguera — Data Science e Inteligência Artificial
+
+---
+
+## Certificações e formações complementares
+
+- **Google AI Professional Certificate**: AI Fundamentals, AI for Writing and Communicating, AI for Brainstorming and Planning
+- **Coursera**: Python for Data Science and AI, Generative AI Essentials for Software Developers V2
+- **Digital Innovation One**: .NET Fundamentals, LocalizaLabs .NET Developer, MRV .NET Developer
+- **CertiProf / Scrum / Agile**: Scrum Foundation Professional Certificate, Agile Scrum Foundation
+- **DevOps e governança**: DevOps Foundation, COBIT 5, ITIL
+- **Alura**: Formação HTML e CSS, Formação Acessibilidade Web
+
+---
+
 ## Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunocs-dev/"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/brunocs_91/"><img src="https://img.shields.io/badge/brunocs__91-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/brunocs-developer/"><img src="https://img.shields.io/badge/-Bruno%20Costa%20E%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Brunocs1991"><img src="https://img.shields.io/badge/Brunocs1991-000000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 </p>
 
