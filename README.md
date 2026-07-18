@@ -97,14 +97,6 @@
 
 ---
 
-## Troféus GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brunocs1991&column=7&theme=gruvbox&no-frame=true&margin-w=8" alt="Troféus GitHub" />
-</p>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
